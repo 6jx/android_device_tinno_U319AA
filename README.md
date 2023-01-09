@@ -1,0 +1,1 @@
+# android_device_tinno_U319AA
